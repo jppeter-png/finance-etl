@@ -1,0 +1,7 @@
+duckdb
+yfinance
+requests
+pandas
+python-dotenv
+matplotlib
+pytest

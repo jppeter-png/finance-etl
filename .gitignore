@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+data/*.duckdb
+data/sp500_constituents_cache.csv
+.DS_Store
+.pytest_cache/
