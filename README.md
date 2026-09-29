@@ -8,6 +8,8 @@ and company fundamentals.
 
 **→ [Full write-up: architecture, data-quality issues, and results](./FINDINGS.md)**
 
+**→ [Interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/josef.peter/viz/Dashboard_17907134512900/Dashboard)**
+
 ![Event volatility: earnings filings vs. Fed decisions](charts/02_event_volatility_comparison.png)
 
 ## Results
