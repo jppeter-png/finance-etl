@@ -63,6 +63,7 @@ python3 analysis/event_volatility.py --window 5
 python3 analysis/fundamentals_factors.py
 python3 analysis/significance.py   # permutation and placebo tests
 python3 analysis/make_charts.py    # regenerates charts/*.png
+python3 analysis/export_for_tableau.py   # summary CSVs for a Tableau dashboard
 
 python3 -m pytest                  # unit tests; no network or database needed
 ```
